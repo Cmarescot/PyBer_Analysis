@@ -29,12 +29,12 @@ Total fares per cities were
 - $2.26 in Suburban cities 
 - $0.67 in Urban cities 
 
-###Conclusions from Findings 
-  Based on these findings, we see that there is an increase in total rides, total drivers and total fares the closer we get to "Urban cities". Urban cities are cities such as NYC, LA or Miami. These types of cities are dense in population and therefore as our data confirms, yields more profit (Total fare). With population increasing the closer we get to Urban cities,  average fare per ride and driver both decrease the closer we get towards Urban cities. 
-  Rural cities yield the least amount of money (Total fares) and has the least amount total drivers and rides. This is not surprising as well because people that live in rural cities tend to drive more and therefore don't need to ride share as much. Less people sharing rides means less of a need for drivers . Less people ridesharing also means a smaller total fare. When we devide this total fare with the little bit amount of people that live in rural cities, were are left with a larger Average share per ride.
-  Suburban cities fall right in the middle between Rural and Urban cities when it comes to total drivers, rides and fares as well as vaergade fare per ride and driver. 
+### Conclusions from Findings 
+- Based on these findings, we see that there is an increase in total rides, total drivers and total fares the closer we get to "Urban cities". Urban cities are cities such as NYC, LA or Miami. These types of cities are dense in population and therefore as our data confirms, yields more profit (Total fare). With population increasing the closer we get to Urban cities,  average fare per ride and driver both decrease the closer we get towards Urban cities. 
+- Rural cities yield the least amount of money (Total fares) and has the least amount total drivers and rides. This is not surprising as well because people that live in rural cities tend to drive more and therefore don't need to ride share as much. Less people sharing rides means less of a need for drivers . Less people ridesharing also means a smaller total fare. When we devide this total fare with the little bit amount of people that live in rural cities, were are left with a larger Average share per ride.
+- Suburban cities fall right in the middle between Rural and Urban cities when it comes to total drivers, rides and fares as well as vaergade fare per ride and driver. 
   
-  ![PyBer_fare_summary.png]
+  ![PyBer_fare_summary.png](https://github.com/Cmarescot/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
   
 ## Summary 
 ### Recommendations 
